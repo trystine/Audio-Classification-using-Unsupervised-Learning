@@ -4,6 +4,7 @@ I have attached four .ipynb notebooks each of them concentrating and explaining 
 
 #### 1. Data Visualization task: 
 This notebook consist of feature extraction of song example considered 'American Idiot' by Green Days. It uses librosa library and matplotlib function to display visual representation
+Link towards the jupyter notebook of Data Visualization: https://drive.google.com/file/d/1M3bTM2zDmLZKgPNo2r-GT1IayQhaNJUo/view?usp=sharing
 
 #### 2. Clustering_Implementation: 
 This notebook handles multiple songs and generates all the features from it. The 11 features generated are Zero Cross Rate, Energy, Entropy of Energy, Spectral Centroid, Spectral Spread, Spectral Entropy, Spectral Flux, Spectral Roll off, MFCC, Chroma Vector, Chroma Deviation
